@@ -35,5 +35,5 @@ Desplegando los primeros nodos en la interfaz gráfica de Neo4j, se visualiza lo
 
 ![Image of graph database](https://github.com/CharlesAG/Connectividad/blob/main/images/graph1.png)
 
-##HTML
-
+## HTML
+~~h~~
