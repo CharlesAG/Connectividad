@@ -15,9 +15,9 @@
         var count = document.getElementById("country").value;
         var config = {
                 container_id: "viz",
-                server_url: "bolt://localhost:7687",
+                server_url: "bolt://localhost:7687",     
                 server_user: "neo4j",
-                server_password: "progonmath",
+                server_password: "progonmath",   <!--Cambiar la contraseña correspondiente al host del ordenador, en éste caso es progonmath, usualmente es neo4j-->
                 labels: {"NODOS":{"caption":"name", "community":"Green"}
                 },
                 relationships: {"Incide":{"thickness":"weight","color":"green"}
