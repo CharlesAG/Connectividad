@@ -29,11 +29,11 @@ En cada nodo está guardada la siguiente información:
 * **year**
 * **pdf**
 
-Las relaciones se dan de acuerdo a los casos que se citaron en otros, y ésta relación se muestra en el grafo como **Incide**.
+Las relaciones se dan de acuerdo a los casos que fueron citados en otros casos, y ésta relación se muestra en el grafo como **Incide**.
 
 Desplegando los primeros nodos en la interfaz gráfica de Neo4j, se visualiza lo siguiente:
 
 ![Image of graph database](https://github.com/CharlesAG/Connectividad/blob/main/images/graph1.png)
 
 ## HTML
-~~h~~
+
