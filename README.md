@@ -37,3 +37,5 @@ Desplegando los primeros nodos en la interfaz gráfica de Neo4j, se visualiza lo
 
 ## HTML
 
+Una vez creada la base de datos, podemos pasar al archivo Netwrok.html, el cual hace uso de la librería [neovis.js](https://github.com/neo4j-contrib/neovis.js/) para poder conectar con Neo4j.
+Es necesario tener iniciada la base de datos con Neo4j en el ordenador, de lo contrario no podrá conectarse.
