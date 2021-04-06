@@ -40,7 +40,7 @@ Desplegando los primeros nodos en la interfaz gráfica de Neo4j, se visualiza lo
 ## HTML
 
 Una vez creada la base de datos, podemos pasar al archivo *Netwrok.html*, el cual hace uso de la librería [neovis.js](https://github.com/neo4j-contrib/neovis.js/) para poder conectar con Neo4j.
-Es necesario tener iniciada la base de datos con Neo4j desde la consola, de lo contrario no podrá conectarse.
+Es necesario tener inicializada la base de datos con Neo4j desde la consola, de lo contrario no podrá conectarse.
 
 El archivo [Network.html](https://github.com/CharlesAG/Connectividad/blob/main/Network.html) crea una página que despliega una lista con los países que contiene el grafo, se selecciona el país deseado y se oprime el botón **Dibujar** paradesplegar el grafo correspondiente a los casos con ese país involucrado.
 
