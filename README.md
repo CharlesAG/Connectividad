@@ -44,7 +44,7 @@ Es necesario tener iniciada la base de datos con Neo4j desde la consola, de lo c
 
 El archivo [Network.html](https://github.com/CharlesAG/Connectividad/blob/main/Network.html) crea una página que despliega una lista con los países que contiene el grafo, se selecciona el país deseado y se oprime el botón **Dibujar** paradesplegar el grafo correspondiente a los casos con ese país involucrado.
 
-El siguiente es un ejemplo de cómo se visualiza la página:
+El siguiente es un ejemplo del resultado:
 
-![Archivo Network.html](https://github.com/CharlesAG/Connectividad/blob/main/images/Captura%20de%20pantalla%20(32).png)
+![Ejemplo Network.html](https://github.com/CharlesAG/Connectividad/blob/main/images/Ejemplo%20Network.html.png)
 
