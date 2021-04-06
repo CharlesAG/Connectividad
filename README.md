@@ -46,5 +46,5 @@ El archivo [Network.html](https://github.com/CharlesAG/Connectividad/blob/main/N
 
 El siguiente es un ejemplo de cómo se visualiza la página:
 
-[Archivo Network.html](https://github.com/CharlesAG/Connectividad/blob/main/images/Captura%20de%20pantalla%20(32).png)
+![Archivo Network.html](https://github.com/CharlesAG/Connectividad/blob/main/images/Captura%20de%20pantalla%20(32).png)
 
