@@ -4,7 +4,7 @@ Creación de la base de datos y página de casos contenciosos usando grafos.
 ## Neo4j
 Primero usamos el archivo [contensiosos.json](https://github.com/CharlesAG/Connectividad/blob/main/contensiosos.json) para crear las relaciones entre los casos, y exportar el grafo usando Neo4j, con el notebook [Creación de base de datos con Py2neo](https://github.com/CharlesAG/Connectividad/blob/main/Creaci%C3%B3n%20de%20base%20de%20datos%20con%20Py2neo%20(Neo4j%20for%20Python).ipynb).
 
-´!pip install py2neo´
+`!pip install py2neo`
 
 En cada nodo está guardada la siguiente información:
 * **actions:** Acciones tomadas en el caso
@@ -39,5 +39,12 @@ Desplegando los primeros nodos en la interfaz gráfica de Neo4j, se visualiza lo
 
 ## HTML
 
-Una vez creada la base de datos, podemos pasar al archivo Netwrok.html, el cual hace uso de la librería [neovis.js](https://github.com/neo4j-contrib/neovis.js/) para poder conectar con Neo4j.
-Es necesario tener iniciada la base de datos con Neo4j en el ordenador, de lo contrario no podrá conectarse.
+Una vez creada la base de datos, podemos pasar al archivo *Netwrok.html*, el cual hace uso de la librería [neovis.js](https://github.com/neo4j-contrib/neovis.js/) para poder conectar con Neo4j.
+Es necesario tener iniciada la base de datos con Neo4j desde la consola, de lo contrario no podrá conectarse.
+
+El archivo [Network.html](https://github.com/CharlesAG/Connectividad/blob/main/Network.html) crea una página que despliega una lista con los países que contiene el grafo, se selecciona el país deseado y se oprime el botón **Dibujar** paradesplegar el grafo correspondiente a los casos con ese país involucrado.
+
+El siguiente es un ejemplo de cómo se visualiza la página:
+
+[Archivo Network.html](https://github.com/CharlesAG/Connectividad/blob/main/images/Captura%20de%20pantalla%20(32).png)
+
