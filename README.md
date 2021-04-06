@@ -46,5 +46,5 @@ El archivo [Network.html](https://github.com/CharlesAG/Connectividad/blob/main/N
 
 El siguiente es un ejemplo del resultado:
 
-![Ejemplo Network.html](https://github.com/CharlesAG/Connectividad/blob/main/images/Ejemplo%20Network.html.png)
+![Ejemplo Network.html](https://github.com/CharlesAG/Connectividad/blob/main/images/Ejemplo%20Per%C3%BA.png)
 
